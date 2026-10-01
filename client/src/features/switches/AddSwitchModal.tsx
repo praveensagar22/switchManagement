@@ -199,7 +199,7 @@ export const AddSwitchModal: React.FC<AddSwitchModalProps> = ({ isOpen, onClose,
             >
               <option value="HUAWEI">Huawei (Target S5720 Series)</option>
               <option value="CISCO">Cisco (Catalyst / Nexus)</option>
-              <option value="OPTILINK">Optilink (OP-MEN 95612 / L3 Series)</option>
+              <option value="OPTILINK">Optilink (OP-MEN 99828 / 95612 / L3 Series)</option>
               <option value="ARUBA">HPE / Aruba</option>
               <option value="JUNIPER">Juniper Junos</option>
               <option value="MIKROTIK">MikroTik RouterOS</option>
